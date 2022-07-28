@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Repository React JS Dasar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Repository ini digunakan untuk menyimpan file-file latihan React JS saya.
 
 ## Available Scripts
 
